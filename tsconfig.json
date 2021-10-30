@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "alwaysStrict": true,
+    "declaration": false,
+    "inlineSourceMap": true,
+    "module": "commonjs", // or ES2015, ES2020
+    "moduleResolution": "node",
+    "outDir": "./dist",
+    "pretty": true,
+    "removeComments": false,
+    "sourceMap": false,
+    "sourceRoot": "src",
+    "strict": true,
+    "target": "es2019",
+  }
+}
